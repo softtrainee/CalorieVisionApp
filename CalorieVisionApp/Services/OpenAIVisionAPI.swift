@@ -9,7 +9,7 @@ import Foundation
 
 enum OpenAIVisionAPI {
     // Replace with your OpenAI test key
-    static let apiKey = "YOUR_OPENAI_API_KEY"
+    static let apiKey = "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"
     
 
     static let apiURL = "https://api.openai.com/v1/chat/completions"
