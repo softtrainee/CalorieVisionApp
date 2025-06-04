@@ -59,16 +59,18 @@ MIT
 
 ## Output
 
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 21](https://github.com/user-attachments/assets/db791c1e-badb-4893-9a08-e0f27a64705e)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 17](https://github.com/user-attachments/assets/f2c76db1-9d84-40c1-9aad-66c0f842a4a7)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 12](https://github.com/user-attachments/assets/b9e7e330-bfdc-4598-a007-5ef0e52f05fb)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 14 05](https://github.com/user-attachments/assets/2d37f950-d794-4e86-9068-0e81d86fa228)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 52](https://github.com/user-attachments/assets/49a1ed3c-3794-43fe-9610-8e88bee3fc5b)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 47](https://github.com/user-attachments/assets/9cfbc01e-e4f8-41a6-8996-3c40f39e9d62)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 39](https://github.com/user-attachments/assets/6a2a9975-e04f-49b5-8d7f-afb9881f8792)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 12 43](https://github.com/user-attachments/assets/cea074bc-4286-47df-b144-aa435ab1787d)
-![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 12 34](https://github.com/user-attachments/assets/820c756c-efde-4f50-8ea6-d6543da00e7e)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 12 34](https://github.com/user-attachments/assets/3e5288fe-7712-4cb5-91ca-d0471ad7b444)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 12 43](https://github.com/user-attachments/assets/0aa509b5-8575-4f1f-9091-8bd8bffe98b0)
 
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 39](https://github.com/user-attachments/assets/464f7be5-b072-4f4d-a83a-d0d8ad458763)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 47](https://github.com/user-attachments/assets/51d71932-f5d4-4820-a1a2-9cf69abc4c30)
+
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 13 52](https://github.com/user-attachments/assets/a3b38a33-0f0a-4f7b-9eb9-c750807ba922)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 14 05](https://github.com/user-attachments/assets/74f6af4e-7cab-4dfe-9e7f-16793916dec0)
+
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 12](https://github.com/user-attachments/assets/015b062c-fb7a-4f56-82e9-c6ecc1698ffb)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 17](https://github.com/user-attachments/assets/9d562326-73ae-4b3d-852c-c0416aae4c39)
+![Simulator Screen Shot - iPhone 13 - 2025-06-04 at 21 15 21](https://github.com/user-attachments/assets/80b0cf81-1fa7-454e-8559-e78ba3966357)
 
 ## Demo Video
 https://youtube.com/shorts/oGbhBA4H7W4?feature=share
